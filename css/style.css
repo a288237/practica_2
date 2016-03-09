@@ -1,21 +1,21 @@
 body{
   background-image: url("http://www.elandroidelibre.com/wp-content/uploads/2015/12/wallpaper-quadhd-1.jpg");
 }
-.pagina{
+main{
   background: white;
   width: 800px;
   margin: 50px auto;
 }
-#encabezado{
+header{
   background-image: url("http://www.antoniodomingo.com/wp-content/uploads/2014/01/colores-1.jpg");
   padding: 10px;
   color: white;
 }
-#encabezado h1{
+header h1{
   text-align: center;
   font-family: cursive;
 }
-#navegar{
+nav{
   float: left;
   height: auto;
   margin-right: 15px;
@@ -24,26 +24,26 @@ body{
   background: lightpink;
   padding-bottom: 902px;
 }
-#navegar a{
+nav a{
   font-style: italic;
 }
-#pie{
+footer{
   height: auto;
   background: black;
   border-style: groove;
 }
-#pie p{
+footer p{
   text-align: center;
   color: white;
 }
-#contenido{
+section{
  padding-left: 150px;
  padding-right: 50px;
 }
-#contenido p{
+section p{
   text-align: justify;
   font-family: cursive;
 }
-#contenido h2{
+section h2{
   font-family: sans-serif;
 }
