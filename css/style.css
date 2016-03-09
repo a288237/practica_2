@@ -1,0 +1,49 @@
+body{
+  background-image: url("http://www.elandroidelibre.com/wp-content/uploads/2015/12/wallpaper-quadhd-1.jpg");
+}
+.pagina{
+  background: white;
+  width: 800px;
+  margin: 50px auto;
+}
+#encabezado{
+  background-image: url("http://www.antoniodomingo.com/wp-content/uploads/2014/01/colores-1.jpg");
+  padding: 10px;
+  color: white;
+}
+#encabezado h1{
+  text-align: center;
+  font-family: cursive;
+}
+#navegar{
+  float: left;
+  height: auto;
+  margin-right: 15px;
+  padding-top: 25px;
+  padding-right: 25px;
+  background: lightpink;
+  padding-bottom: 902px;
+}
+#navegar a{
+  font-style: italic;
+}
+#pie{
+  height: auto;
+  background: black;
+  border-style: groove;
+}
+#pie p{
+  text-align: center;
+  color: white;
+}
+#contenido{
+ padding-left: 150px;
+ padding-right: 50px;
+}
+#contenido p{
+  text-align: justify;
+  font-family: cursive;
+}
+#contenido h2{
+  font-family: sans-serif;
+}
